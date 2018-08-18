@@ -1,4 +1,4 @@
 # Phone_emergence
-Calculate and bootstrap functional load measurements over CHILDES data (or other corpora/lexica)
+Calculate and bootstrap functional load and frequency measurements over CHILDES data (or other corpora/lexica)
 
-Files in scripts contain 1) bootstrapping procedures and 2) cumulative link mixed effect modelling by language, including visualizations. 
+Files in scripts contain bootstrapping procedures carried out in Cychosz (2018). For cumulative link mixed effect modelling procedure, see repository on associated OSF page. 
